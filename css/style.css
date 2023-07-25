@@ -1,0 +1,73 @@
+    body {
+      background-color: aquamarine;
+    }
+    h3 {
+      color: red;
+    }
+    
+    .parent {
+      position:relative;
+      top: 0;
+      left: 0;
+    }    
+    .image1 {
+      position:relative;
+      top: 0;
+      left: 0;
+      border: 1px solid #000;
+      height: ;
+      width: ;
+    }
+    .image2 {
+      position: absolute;
+      top: 45.5%;
+      left: 28.5%;
+      border: 1px solid #000;
+      height: ;
+      width: ;
+    }
+    .submission-form{
+      max-width: 500px;
+      margin: 2rem auto;
+      border: 2px solid #E74C3C;
+      padding: 2rem;
+      label{
+      display: block;
+      padding: 1rem 0 .5rem;
+            
+      }
+      input, textarea{
+      display: blockS;
+      width: 100%;
+      border: 2px solid #298089;
+      padding: .25rem;
+      font-size: 18px;
+      border-radius: 5px;
+      }
+      }
+      #calculateBtn{
+      border: 0;
+      background: #343050;
+      padding: 0.3rem;
+      color: white;
+      margin: 1rem 0;
+      width: auto;
+      text-transform: uppercase;
+      cursor: pointer;
+      }
+
+      #resetBtn{
+      border: 0;
+      background: #c43d8b;
+      padding: 0.3rem;
+      color: white;
+      margin: .2rem 0;
+      width: auto;
+      text-transform: uppercase;
+      cursor: pointer;
+          
+          }
+
+                    
+      
+  
